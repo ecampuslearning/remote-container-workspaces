@@ -2114,10 +2114,10 @@ ci-info@^1.5.0:
   resolved "https://registry.yarnpkg.com/ci-info/-/ci-info-1.6.0.tgz#2ca20dbb9ceb32d4524a683303313f0304b1e497"
   integrity sha512-vsGdkwSCDpWmP80ncATX7iea5DWQemg1UgCW5J8tqjU3lYw4FBYuj89J0CTVomA7BEfvSZd84GmHko+MxFQU2A==
 
-ci@^2.2.0:
-  version "2.2.0"
-  resolved "https://registry.yarnpkg.com/ci/-/ci-2.2.0.tgz#778b9250c96f1155e3b25de59e71aa4aa383cebc"
-  integrity sha512-lBkEN6XclyW0jnprtFQ+dsbP+9zwmo37Z1cV38h4FSDgI2QzFqwknJnVSvRxK9UXkPC4ZcVOVFyCVrNylTX52Q==
+ci@^2.3.0:
+  version "2.3.0"
+  resolved "https://registry.yarnpkg.com/ci/-/ci-2.3.0.tgz#ff4afaee68a3257359f870f94658ebd4a8efa0d6"
+  integrity sha512-0MGXkzJKkwV3enG7RUxjJKdiAkbaZ7visCjitfpCN2BQjv02KGRMxCHLv4RPokkjJ4xR33FLMAXweS+aQ0pFSQ==
 
 clean-css@^5.2.2:
   version "5.3.0"
